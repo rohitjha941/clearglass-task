@@ -11,3 +11,5 @@ docker-compose up -d --build
 ```
 4. Go to localhost to view the app. 
 
+
+Please Note that this app will run backend on port 8000 and frontend on port 80. 
